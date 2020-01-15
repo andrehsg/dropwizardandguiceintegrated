@@ -1,0 +1,9 @@
+crash: cannot find booted kernel -- please enter namelist argument
+
+
+Usage:
+
+  crash [OPTION]... NAMELIST MEMORY-IMAGE[@ADDRESS]	(dumpfile form)
+  crash [OPTION]... [NAMELIST]             		(live system form)
+
+Enter "crash -h" for details.

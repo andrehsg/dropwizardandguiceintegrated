@@ -1,0 +1,8 @@
+com/demo/JerseyApplication.class
+com/demo/JerseyApplicationBinder.class
+com/demo/modules/HelloWorldModule.class
+com/demo/service/HelloWorldService.class
+com/demo/service/HelloWorldServiceImpl.class
+com/demo/resources/AnotherResource$MyService.class
+com/demo/resources/AnotherResource.class
+com/demo/JerseyService.class
